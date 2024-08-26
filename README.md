@@ -9,14 +9,18 @@ This project showcases how to use Postman to test API and Swagger to document AP
 It includes:
 
   - Testing GET, POST, PUT, DELETE requests.
-    The Postman collection is available in the repository. Import the collection into Postman to test the API endpoints.
     
-    [Postman Collection](https://github.com/PrathameshPC77/api_tools/blob/main/Library%20Management%20API.postman_collection.json)
+    The Postman collection is available in the repository.
+    
+    Import the collection into Postman to test the API endpoints.
+    
+    - [Postman Collection](https://github.com/PrathameshPC77/api_tools/blob/main/Library%20Management%20API.postman_collection.json)
     
   - Documentation.
+    
     The API documentation is available at the following URL:
     
-    - [Swagger UI Documentation](http://127.0.0.1:8000/api/swagger/)
+    - [Swagger UI Documentation](http://127.0.0.1:8000/api/swagger/) 
     
     - [Swagger JSON Documentation](https://github.com/PrathameshPC77/api_tools/blob/main/swagger.json)
 
